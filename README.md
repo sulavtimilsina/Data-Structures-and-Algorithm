@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithm
-DAS Lab Tutorials in C++
+DSA Lab Tutorials in C++
